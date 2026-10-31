@@ -8,26 +8,28 @@ Experienced in full-stack development, software architecture, cloud infrastructu
 
 ## 💼 Professional Highlights
 
-**[Deerhold](https://www.deerhold.com/) — Principal Engineer**  
+**<a href="https://www.deerhold.com/" target="_blank" rel="noopener noreferrer">Deerhold</a> — Principal Engineer**  
 *Japan | July 2020 – Present*
 
-Working with Deerhold's client **[Showcase TV](https://www.showcase-tv.com/)**, contributing to software engineering and product development.
+Working with Deerhold's client **<a href="https://www.showcase-tv.com/" target="_blank" rel="noopener noreferrer">Showcase TV</a>**, contributing to software engineering and product development.
 
-- [Showcase TV eKYC Platform](https://ekyc.showcase-tv.com/en/)
+- <a href="https://ekyc.showcase-tv.com/en/" target="_blank" rel="noopener noreferrer">Showcase TV eKYC Platform</a>
 - OCR, document intelligence, identity verification, and face comparison.
 - Full-stack development and third-party AI integrations.
 - Application performance, reusable architecture, and engineering quality.
 
-**[Guided Labs Pvt. Ltd.](https://www.guidedlabs.com.np) — Software Architecture & Engineering Management Consultant**
+**<a href="https://www.guidedlabs.com.np" target="_blank" rel="noopener noreferrer">Guided Labs Pvt. Ltd.</a> — Software Architecture & Engineering Management Consultant**
 
 Providing independent consulting support for software architecture, technical strategy, and engineering management.
 
 Selected products:
-- [D2Transform](https://www.guidedlabs.com.np/products/d2transform) – Document intelligence and data transformation.
-- [AjaKoTaja](https://www.ajakotaja.com) – AI-powered trending stories and news discovery.
-- [Recent Visits](https://www.recent-visit.com) – AI-powered travel discovery and storytelling.
+
+- <a href="https://www.guidedlabs.com.np/products/d2transform" target="_blank" rel="noopener noreferrer">D2Transform</a> – Document intelligence and data transformation.
+- <a href="https://www.ajakotaja.com" target="_blank" rel="noopener noreferrer">AjaKoTaja</a> – AI-powered trending stories and news discovery.
+- <a href="https://www.recent-visit.com" target="_blank" rel="noopener noreferrer">Recent Visits</a> – AI-powered travel discovery and storytelling.
 
 **Previous Experience**
+
 - Deerwalk Institute of Technology – MERN Stack Instructor.
 - Deerwalk Compware – Senior Software Engineer.
 - GoGlides – Senior Software Engineer.
@@ -56,13 +58,14 @@ Selected products:
 
 ## 🌐 Connect
 
-- [Personal Website](https://prlama.com.np)
-- [GitHub](https://github.com/prlama55)
-- [NPM](https://www.npmjs.com/~prlama)
-- [LinkedIn](https://www.linkedin.com/in/prlama)
-- [Facebook](https://www.facebook.com/padma.raj.lama)
-- [Instagram](https://www.instagram.com/prlama55)
-- [TikTok](https://www.tiktok.com/@prlama55)
+- <a href="https://prlama.com.np" target="_blank" rel="noopener noreferrer">Personal Website</a>
+- <a href="https://github.com/prlama55" target="_blank" rel="noopener noreferrer">GitHub</a>
+- <a href="https://www.npmjs.com/~prlama" target="_blank" rel="noopener noreferrer">NPM</a>
+- <a href="https://www.linkedin.com/in/prlama" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://www.facebook.com/padma.raj.lama" target="_blank" rel="noopener noreferrer">Facebook</a>
+- <a href="https://www.instagram.com/prlama55" target="_blank" rel="noopener noreferrer">Instagram</a>
+- <a href="https://www.tiktok.com/@prlama55" target="_blank" rel="noopener noreferrer">TikTok</a>
+
 ---
 
 *Building reliable software, designing intelligent systems, and turning ideas into meaningful technology.*
